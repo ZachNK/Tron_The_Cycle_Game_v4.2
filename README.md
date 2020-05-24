@@ -3,7 +3,7 @@
 Light Cycle이 라이트 월, 상대방 캐릭터,
 게임환경 외곽라인에 부딫히면 패자.
 
-[![Tron The Light Cycle ver.01 alpha](https://j.gifs.com/MwnmQA.gif)](https://www.youtube.com/watch?v=TdPAMylfSe4)
+[![T-Rex_Mobile_Game_v01 alpha](https://j.gifs.com/MwnmQA.gif)](https://www.youtube.com/watch?v=O6KTUpHfERg)
 
 (↑ click gif image to watch full video)
 
