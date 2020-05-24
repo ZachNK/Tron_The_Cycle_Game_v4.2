@@ -3,7 +3,7 @@
 Light Cycle이 라이트 월, 상대방 캐릭터,
 게임환경 외곽라인에 부딫히면 패자.
 
-[![Tron The Light Cycle ver.01 alpha](https://j.gifs.com/MwnmQA.gif)](https://youtu.be/TdPAMylfSe4)
+[![Tron The Light Cycle ver.01 alpha](https://gifs.com/gif/tron-the-light-cycle-ver-01-MwnmQA)](https://youtu.be/TdPAMylfSe4)
 
 (↑ click gif image to watch full video)
 
